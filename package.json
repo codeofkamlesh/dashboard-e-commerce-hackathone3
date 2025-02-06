@@ -27,13 +27,15 @@
     "styled-components": "^6.1.14",
     "sweetalert2": "^11.6.13",
     "tailwind-merge": "^3.0.1",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "twilio": "^5.4.3"
   },
   "devDependencies": {
     "@types/next-auth": "^3.13.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/twilio": "^3.19.2",
     "eslint": "^8",
     "eslint-config-next": "14.2.15",
     "postcss": "^8",
